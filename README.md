@@ -2,7 +2,7 @@
 
 Dio - aula de Git / GitHub
 
-Primeiro projeto, sistema de cadastros
+Primeiro projeto, sistema de cadastro Nutricionista aparecida.
 
 O sistema efetua o cadastro, a busca e a remoção de pacientes
 
